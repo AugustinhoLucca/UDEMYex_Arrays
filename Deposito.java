@@ -26,6 +26,7 @@ public class Deposito {
     public String getNomeTitular() {
         return nomeTitular;
     }
+    
 
     public void setNomeTitular(String nomeTitular) {
         this.nomeTitular = nomeTitular;
